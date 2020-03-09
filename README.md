@@ -41,10 +41,6 @@ Create an app that describes you with the following parts:
 &nbsp&nbsp
 &nbsp&nbsp
 &nbsp&nbsp
-&nbsp&nbsp
-&nbsp&nbsp
-&nbsp&nbsp
-&nbsp&nbsp
 <span>
 <a href="https://imgur.com/yuqk5To"><img src="https://i.imgur.com/yuqk5Tol.jpg" title="source: imgur.com" /></a>
 </span>
